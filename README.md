@@ -22,23 +22,3 @@ Welcome to Tic Tac Toe Xtreme, an exciting and feature-rich take on the classic 
   <img src="https://github.com/meemanali/Tic-Tac-Toe-Xtreme/blob/main/Tic%20Tat%20Toe%203.png" alt="Tic Tac Toe 3" width="220" title="Tic Tac Toe 3">
   <img src="https://github.com/meemanali/Tic-Tac-Toe-Xtreme/blob/main/Tic%20Tat%20Toe%204.png" alt="Tic Tac Toe 4" width="220" title="Tic Tac Toe 4">
 </div>
-
-
-## Video Preview
-
-https://github.com/meemanali/Tic-Tac-Toe-Xtreme/assets/120294764/8fc4e029-8135-443a-bf5b-021d924bce43
-
-
-## Installation
-
-Get started with Tic Tac Toe Xtreme today! Simply download the Release APK from Here or build the project from source and install it on your Android device.
-
-
-## Contributions
-
-We welcome contributions and feedback from the community! Feel free to fork the repository, make improvements, and create pull requests.
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for more details.
